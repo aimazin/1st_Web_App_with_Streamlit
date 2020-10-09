@@ -9,8 +9,8 @@ my first web app using Streamlit library and some of my previous series ML exper
 
 ## Installations
 
-install latest version of python version 3.8
-pip install streamlit library 
+- install latest version of python version 3.8
+- pip install streamlit library 
 
 
 ## Project Motivation
